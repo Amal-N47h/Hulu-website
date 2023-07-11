@@ -5,6 +5,8 @@ body{
     color: #fff;
 }   
 .head{
+    width:100%
+    height:680px
     background-image: url(Images/original.jpeg);
     background-size: 129% ;
     background-position:top right;
