@@ -7,11 +7,11 @@ body{
 .head{
     width: 100%;
     height: 680px;
-    background-image: url(https://drive.google.com/file/d/14qn3v-Q9mtT7g7gFRXUi7C5Ba7DcCfF4/view?usp=share_link);
+    background-image: url(Images/original.jpeg);
     background-size: 129% ;
     background-position:top right;
     background-repeat: no-repeat;
-    background-image: linear-gradient(to top, transparent 60%, rgba(0, 0, 0, 0.4) 90%, rgba(0, 0, 0, 1) 100%), url("/hello/Hulu/Images/original.jpeg");    
+    background-image: linear-gradient(to top, transparent 60%, rgba(0, 0, 0, 0.4) 90%, rgba(0, 0, 0, 1) 100%), url("Images/original.jpeg");    
 } 
 .hulu img{
     height: 24px;
